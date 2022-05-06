@@ -15,12 +15,15 @@ library(dplyr)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+###Overview of cleaned statistics in R
+
 summary(cereal_data0
 
 view(cereal_data)
 
 print(cereal_data)
 
+###Scatterplot comparing sugar(g) amount between each mfr
 
 cereal_data |>
 ggplot(aes(x= mfr,
@@ -28,6 +31,8 @@ ggplot(aes(x= mfr,
         geom_point(size=5)+
         geom_line()
         
+        
+###Boxplot with individual statistics focused on giving clear data on calorie counts in differnet cereals, colored and sorted by mfr
         
 ggplot(na.omit(cereal_data)) +
   aes(y = mfr,
@@ -40,7 +45,12 @@ ggplot(na.omit(cereal_data)) +
                width = .2,
                size = .5) 
   
+  
+###Summary Table detailing averages of all cereals independent of mfr (nothing worth noting gathered)
 describe(cereal_data)
+ 
+ 
+####Scatterplot with individual points giving amounts of potassium within cereal sorted by mfr
  
 ggplot(cereal_data,
       aes(x= mfr, y = potass, color = mfr)) +
