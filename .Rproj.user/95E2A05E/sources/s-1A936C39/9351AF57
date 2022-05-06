@@ -1,27 +1,27 @@
 {
-    "id": "58FEFAC9",
+    "id": "9351AF57",
     "path": "~/Documents/GitHub/Data-Analysis/Data Analysis.rmd",
     "project_path": "Data Analysis.rmd",
     "type": "r_markdown",
-    "hash": "2165576431",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1651790942665.0,
+    "created": 1651798912514.0,
     "source_on_save": false,
-    "relative_order": 2,
+    "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "64,375",
-        "scrollLine": "58"
+        "cursorPosition": "34,18",
+        "scrollLine": "18"
     },
     "folds": "",
     "lastKnownWriteTime": 1651798470,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1651798470124,
+    "last_content_update": 1651798470,
     "read_only": false,
     "read_only_alternatives": []
 }
