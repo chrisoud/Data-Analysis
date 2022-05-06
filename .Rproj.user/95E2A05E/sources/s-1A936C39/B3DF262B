@@ -1,0 +1,28 @@
+{
+    "id": "B3DF262B",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1651794572896.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "6bb6053c71654e059ac00ed57b026791",
+        "name": "histoplot",
+        "title": "histoplot",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1651794572896,
+    "read_only": false,
+    "read_only_alternatives": []
+}
